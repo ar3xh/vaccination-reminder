@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380893820116",
+    "project_id": "vaccin-e744a",
+    "storage_bucket": "vaccin-e744a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380893820116:android:451622a48f9ac0d823f741",
+        "android_client_info": {
+          "package_name": "com.mmcoe.pacem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcdvV_s-7kbqM-ImjV8FjhriESBIDKG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
