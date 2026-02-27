@@ -32,8 +32,6 @@ Includes vaccines recommended by the health authorities such as:
 - Hepatitis A  
 ---
 
----
-
 ## Download
 <a href="https://github.com/ar3xh/vaccination-reminder/releases/download/v1.0.0-beta/VaccinationReminder.apk" download>
   <img src="https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge">
